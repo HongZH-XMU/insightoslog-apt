@@ -1,0 +1,16 @@
+Package: libinsightoslog-dev
+Version: 1.0.5
+Architecture: amd64
+Maintainer: InsightOS Team <team@insightos.org>
+Depends: libc6 (>= 2.17)
+Filename: pool/main/l/libinsightoslog-dev/libinsightoslog-dev_1.0.5_amd64.deb
+Size: 691550
+MD5sum: d9bc49c9dd3f7bc5b4ce4c255cb1a88c
+SHA1: 6d664e216646ccc3798eda3ceb7cb34f4442526a
+SHA256: bfd2a38ad8a6f712675b8680d59fd7b7172f3d10bd8e14167746eface9918c0c
+Section: devel
+Priority: optional
+Description: InsightOS Log SDK - 统一日志采集 SDK
+ InsightOS Log SDK for C++ provides unified log collection,
+ processing and analysis capabilities.
+

@@ -1,0 +1,27 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 02 Apr 2026 07:47:02 +0000
+Label: InsightOS SDK
+Origin: InsightOS
+Suite: stable
+MD5Sum:
+ 0d00de81173cd98e308135f8afba810d              146 Release
+ a016d1d5069142771ba80d86ed68b665              579 main/binary-amd64/Packages
+ 8ca53ac9c00412e058041230b5a50eca              438 main/binary-amd64/Packages.gz
+ fc748d4bcc6e2cd2ab24ffd8568c7755               75 main/binary-amd64/Release
+SHA1:
+ d7518e7d5c2a00fa4164f8751ba089ac6d2fa6b3              146 Release
+ 35499d8a3ac216e5115c7b6e2496f250fa161fb9              579 main/binary-amd64/Packages
+ 3907ca4c0e1a5501c633a3c7eca3bad64def87c6              438 main/binary-amd64/Packages.gz
+ 6b2a279099a4045b01049f5ea86c5d57ad7fbe2f               75 main/binary-amd64/Release
+SHA256:
+ 962847aa6c6bf261922fb8b052823d9744555f28ec812d177e27f55de295d129              146 Release
+ 7cbd97c6bfdedf3c7647b6ccfe435c07b6c4c0e59060b2bba1fa119f1c3107e9              579 main/binary-amd64/Packages
+ eb309fe67f8046464e10928b607614cdc80828f8157c668388e8040f66be58bc              438 main/binary-amd64/Packages.gz
+ 29978583022fc9c23f8403f77b05e64341066b6a121d1b674d30f56d0d1c6acd               75 main/binary-amd64/Release
+SHA512:
+ e93936aadc2b10880080373e7a6cf7e6363869f288471218a43c63a3eb301641769a6bb15a6e7102e698a15bb829301d53f923ad5f457222aad5df644500415d              146 Release
+ 57a20c6e53a689eeebab8a95e1b3c32d41ec447f08cb495e7778b362006da2cc5beedfa6262451505508682d1146e6b1dede90a630f2f9a1ad4436a8ff2944b8              579 main/binary-amd64/Packages
+ cdd37279608a9713773e4440920339af83ec288ec535fc3b4bc3ce8472d6fd20c7167cbfb04d383ddc820dc69eec63b4d96dd213a29c35e6acdf41193ddf1a6c              438 main/binary-amd64/Packages.gz
+ 4f423f7e2bb801f96f86a1bdceaf050104db602b69dabb691e95bb5bd3b9fb05299e2ef0f0d016c2c377a9f193a4543803bbe326417287bbf6e7d9b082a34e48               75 main/binary-amd64/Release
