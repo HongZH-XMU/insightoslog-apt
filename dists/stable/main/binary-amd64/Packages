@@ -18,12 +18,12 @@ Package: libinsightoslog-dev
 Version: 1.0.6
 Architecture: amd64
 Maintainer: InsightOS Team <team@insightos.org>
-Depends: libc6 (>= 2.17), nlohmann-json3-dev (>= 3.10.5)
+Depends: libc6 (>= 2.17), nlohmann-json3-dev (>= 3.10.5), libfmt-dev
 Filename: pool/main/l/libinsightoslog-dev/libinsightoslog-dev_1.0.6_amd64.deb
-Size: 581460
-MD5sum: 6812eb8fb025cab36dcac6a8b80b183c
-SHA1: baaf9270c5825cdebade36b8ecca2a22c650d8e7
-SHA256: 713e66ff6dbce0f2ff38a94af791fd7b892d88f8057797be8968ddc324a92793
+Size: 464842
+MD5sum: c9206ac0f9e5dc34575518dd254cec77
+SHA1: 02a864ba09c84fab6e9926220a47ce368717a7f6
+SHA256: 6cba016d9a165303ee145c9a3d9c9fb8ea1fdb90e1ab9af3816d9b6d1be6307a
 Section: devel
 Priority: optional
 Description: InsightOS Log SDK - 统一日志采集 SDK
