@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: InsightOS Team <team@insightos.org>
 Depends: libc6 (>= 2.17), libfmt-dev
 Filename: pool/main/l/libinsightoslog-dev/libinsightoslog-dev_1.0.6_amd64.deb
-Size: 464952
-MD5sum: 70dd2eae867736c89dc24b39a86c962c
-SHA1: cb62d631f1df5a58783ce0ddb7e66b01a4a2e9d8
-SHA256: f65103ca03f2b1a8df7700f0bd6a7d80fd1c554266e30421cb3ccadb94f44117
+Size: 467838
+MD5sum: 57649c13798ad974585d36c9cb7f2485
+SHA1: 58abba2a6241bebaa2ee4a6fc7cda27a61d1d06e
+SHA256: a59fbb00726301c338d0de32a91d40e1dbea32ce46e52cc95f33320521c36cd6
 Section: devel
 Priority: optional
 Description: InsightOS Log SDK - 统一日志采集 SDK
