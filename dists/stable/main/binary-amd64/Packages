@@ -20,10 +20,26 @@ Architecture: amd64
 Maintainer: InsightOS Team <team@insightos.org>
 Depends: libc6 (>= 2.17), libfmt-dev
 Filename: pool/main/l/libinsightoslog-dev/libinsightoslog-dev_1.0.8_amd64.deb
-Size: 467862
-MD5sum: 37c8a16f0964adcb3dc20b517587dcf8
-SHA1: 379df9f529256e638ca5eb4295999c49ca6cfad4
-SHA256: fdd8ce37c627931ac6039f9a037b836f2d79aa6b0ce16128f4f88befd2f74040
+Size: 465504
+MD5sum: b2534f937fde3f0ffd37c4fe746debe4
+SHA1: bd1443fbb7ce1b42eac40307d81874cfb75775cc
+SHA256: 5758d5e0cce48b7c74efb87a1697f3e22f8f2b6c0bae53f8bf4ff7cf143171a3
+Section: devel
+Priority: optional
+Description: InsightOS Log SDK - 统一日志采集 SDK
+ InsightOS Log SDK for C++ provides unified log collection,
+ processing and analysis capabilities.
+
+Package: libinsightoslog-dev
+Version: 1.0.9
+Architecture: amd64
+Maintainer: InsightOS Team <team@insightos.org>
+Depends: libc6 (>= 2.17), libfmt-dev
+Filename: pool/main/l/libinsightoslog-dev/libinsightoslog-dev_1.0.9_amd64.deb
+Size: 465532
+MD5sum: 3b3a4e6249e4619476375aabddc8bb8c
+SHA1: f61a4409bd785656747305e3fbf724059da44d5e
+SHA256: 8854d3de284e6aef0693de2e9427f93d4f0444873ad1bda4f32eae35e135a3cd
 Section: devel
 Priority: optional
 Description: InsightOS Log SDK - 统一日志采集 SDK
